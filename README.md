@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhilashTripathi
-- 👀 I’m interested in learning AI.
+- 👀 I’m learning react-native right now and I'm interested in SDE roles.
 - 🌱 I’m currently doing masters from BITS, Pilani.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/abhilash-tripathi-8a591315b
