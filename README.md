@@ -1,21 +1,40 @@
-# Hi 👋, I'm Abhilash Tripathi
-
-![Developer Profile](https://example.com/developer-image.jpg)
-
+<h1 align="center"> # Hi 👋, I'm Abhilash Tripathi </h1>
+<div align="center">
 A passionate frontend and backend developer from India. I’m currently pursuing my master's at BITS, Pilani and interning in full stack app development at Burdenoff. I specialize in React, GraphQL, and Retrieval-Augmented Generation (RAG) in AI.
+<br/>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+
+<!--<a href="https://github.com/pulls?q=is%3Apr+author%3AAbhilashTripathi+archived%3Afalse+is%3Aclosed"><img src="https://img.shields.io/badge/github.com/pulls?q=is%3Apr+author%3AAbhilashTripathi+archived%3Afalse+is%3Aclosed" alt="Pull Requests Badge"/></a>-->
+<a href="https://github.com/search?q=author%3AAbhilashTripathi+is%3Apr&state=closed"><img src="https://img.shields.io/badge/Pull%20Requests-Closed-brightgreen" alt="Pull Requests Badge"/></a>
+
+
+![Profile](https://cdn.vectorstock.com/i/2000v/33/06/laptop-computer-tablet-and-mobile-phone-vector-25153306.avif)
+
+
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **Full Stack Cross Platform Application**
-- 👨‍💻 All of my projects are available at [myportfoliopage](https://www.abhilashtripathi.com)
-- 📝 I regularly write articles on [myblogpage](https://www.myblogpage.com)
-- 💬 Ask me about **React, GraphQL, RAG**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhilash-tripathi-8a591315b)
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1rlnQLIPqMTQ9-iOMiYmma3o0wv29u2YB/view?usp=sharing)
-- ⚡ Fun fact: I think I am a good observer, team player and quick learner
+🔭 I’m currently working on **Full Stack Cross Platform Application**
+</br>
+👨‍💻 All of my projects are available at [myportfoliopage](https://www.abhilashtripathi.com)
+</br>
+📝 I regularly write articles on [myblogpage](https://www.myblogpage.com)
+</br>
+💬 Ask me about **React, GraphQL, RAG**
+</br>
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhilash-tripathi-8a591315b)
+</br>
+📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1rlnQLIPqMTQ9-iOMiYmma3o0wv29u2YB/view?usp=sharing)
+</br>
+⚡ Fun fact: I think I am a good observer, team player and quick learner
+
+
 
 ## 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/abhilash-tripathi-8a591315b)
-- [GitHub](https://github.com/abhilashtripathi)
+<a href="https://twitter.com/abhilashtripathi" ><img src="https://img.shields.io/twitter/follow/abhilashtripathi.svg?style=social" /> </a>
+</br>
+<a href="https://www.linkedin.com/in/abhilash-tripathi-8a591315b"><img src="https://img.shields.io/badge/-Abhilash%20Tripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhilash-tripathi-8a591315b"/></a>
+</br>
+<a href="https://github.com/abhilashtripathi"><img src="https://img.shields.io/github/followers/abhilashtripathi?label=Follow&style=social" /></a>
 
 ## 🛠 Languages and Tools:
 ### Frontend Development:
@@ -26,11 +45,13 @@ A passionate frontend and backend developer from India. I’m currently pursuing
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Ionic React](https://img.shields.io/badge/Ionic_React-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ### Backend Development:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -45,8 +66,7 @@ A passionate frontend and backend developer from India. I’m currently pursuing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 📈 GitHub Stats:
-![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashtripathi&show_icons=true&theme=radical)
-
-Feel free to explore my repositories and connect with me on social media. I'm always open to discussing new projects and opportunities.
+Feel free to explore my repositories and connect with me. I'm always open to discussing new projects and opportunities.
