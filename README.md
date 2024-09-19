@@ -15,17 +15,19 @@ A passionate frontend and backend developer from India. I’m currently pursuing
 ## 🌟 About Me
 🔭 I’m currently working on **Full Stack Cross Platform Application**
 </br>
-👨‍💻 All of my projects are available at [myportfoliopage](https://www.abhilashtripathi.com)
-</br>
-📝 I regularly write articles on [myblogpage](https://www.myblogpage.com)
+👨‍💻 All of my projects are available at: [Myportfoliopage](https://resume-website-one-sage.vercel.app/)
 </br>
 💬 Ask me about **React, GraphQL, RAG**
 </br>
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhilash-tripathi-8a591315b)
+📫 Reach me at: [Linkedin](https://www.linkedin.com/in/abhilash-tripathi-8a591315b) 
 </br>
 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1rlnQLIPqMTQ9-iOMiYmma3o0wv29u2YB/view?usp=sharing)
 </br>
 ⚡ Fun fact: I think I am a good observer, team player and quick learner
+<!--
+</br>
+📝 I regularly write articles on [myblogpage](https://www.myblogpage.com)
+-->
 
 
 
