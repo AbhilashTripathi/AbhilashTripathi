@@ -1,6 +1,6 @@
 <h1 align="center"> # Hi 👋, I'm Abhilash Tripathi </h1>
 <div align="center">
-A passionate frontend and backend developer from India. I’m currently pursuing my master's at BITS, Pilani and interning in full stack app development at Burdenoff. I specialize in React, GraphQL, and Retrieval-Augmented Generation (RAG) in AI.
+A passionate frontend and backend developer from India. I’m currently pursuing my master's at BITS Pilani, Pilani Campus and interning as Software Developer @BitGo. I specialize in React, GraphQL, SpringBoot, Debugging and Retrieval-Augmented Generation (RAG).
 <br/>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
@@ -13,11 +13,12 @@ A passionate frontend and backend developer from India. I’m currently pursuing
 
 
 ## 🌟 About Me
-🔭 I’m currently working on **Full Stack Cross Platform Application**
+🔭 I’m currently working on **Backend and Frontend**  @BitGo.
+🔭 I’ve worked on **Full Stack Cross Platform Application** while doing internship @Burdenoff.
 </br>
 👨‍💻 All of my projects are available at: [Myportfoliopage](https://resume-website-one-sage.vercel.app/)
 </br>
-💬 Ask me about **React, GraphQL, RAG**
+💬 Ask me about **React, Angular, SpringBoot, GraphQL, RAG**
 </br>
 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/abhilash-tripathi-8a591315b) 
 </br>
@@ -58,6 +59,7 @@ A passionate frontend and backend developer from India. I’m currently pursuing
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-3880FF?style=for-the-badge&logo=springboot&logoColor=green)
 
 ### AI and Data Science:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,5 +72,6 @@ A passionate frontend and backend developer from India. I’m currently pursuing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/Spring_Boot-FCC624?style=for-the-badge&logo=intellijIdea&logoColor=green)
 
 Feel free to explore my repositories and connect with me. I'm always open to discussing new projects and opportunities.
